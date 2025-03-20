@@ -23,18 +23,28 @@
 <div align="center">
 
 ![AI/ML Stack](https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,keras&theme=dark&perline=6)
-![Data Tools](https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter&theme=dark&perline=4)
+![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MLOps](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![AutoML](https://img.shields.io/badge/AutoKeras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-65BBA9?style=for-the-badge&logo=ollama&logoColor=white)
-![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 </div>
 
 
 💻 **Tech Stack**
 
-<div align="center">
+<div>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
