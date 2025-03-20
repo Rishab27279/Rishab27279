@@ -1,8 +1,7 @@
-<p align="center">Hello there 👋, I am Rishab Kumar Pattnaik</p>
-<p style="text-align:center;">Hello there 👋, I am Anurag Gade</p>
+# <p align="center">Hello there 👋, I am Rishab Kumar Pattnaik</p>
 
 
-## 🖥️ Passionate about AI/ML 🖥️ 
+### 🖥️ Passionate about AI/ML 🖥️ 
 
 ---
 
