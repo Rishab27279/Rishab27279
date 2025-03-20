@@ -1,7 +1,8 @@
 # <p align="center">Hello there 👋, I am Rishab Kumar Pattnaik</p>
+### <p align="center">Pre-Final Year Student at BITS Pilani</p>
 
 
-### 🖥️ Passionate about AI/ML 🖥️ 
+## 🖥️ I work on Deep Learning, Computer Vision, Representation Learning, Generative AI. 🖥️ 
 
 ---
 
