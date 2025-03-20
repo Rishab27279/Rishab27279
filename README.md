@@ -24,7 +24,7 @@
 - Reinforcement Learning
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/data-analysis.gif" width="100%" alt="Data Science GIF"/>
+      <img src="https://media.tenor.com/Lbfyti3y8UkAAAAM/machine-learning-artificial-intelligence.gif" width="100%" alt="Machine Learning GIF"/>
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@
 </div>
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/multiscreen-analysis.gif" width="100%" alt="Multi-screen Analysis"/>
+      <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="100%" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -73,12 +73,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://riiishaab.github.io/)
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/data-science-profile.gif" width="100%" alt="Data Science Profile"/>
+      <img src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" width="100%" alt="Emo GIF"/>
     </td>
   </tr>
 </table>
 
-🔥 **Most Used Languages**
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabKumarPattnaik&layout=compact" alt="Top Languages"/>
-</div>
