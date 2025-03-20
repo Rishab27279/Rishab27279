@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Rishab Kumar Pattnaik
+<p align="center">Hello there 👋, I am Rishab Kumar Pattnaik</p>
+<p style="text-align:center;">Hello there 👋, I am Anurag Gade</p>
 
-### Pre-Final Year Student of BITS Pilani passionate about AI/ML
+
+## 🖥️ Passionate about AI/ML 🖥️ 
 
 ---
 
