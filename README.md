@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![AI/ML Stack](https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,keras,opencv&theme=dark&perline=6)
+![AI/ML Stack](https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,keras&theme=dark&perline=6)
 ![Data Tools](https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter&theme=dark&perline=4)
 ![MLOps](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![AutoML](https://img.shields.io/badge/AutoKeras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
