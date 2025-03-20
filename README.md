@@ -24,7 +24,7 @@
 - Reinforcement Learning
     </td>
     <td width="40%">
-      <img src="[https://media.tenor.com/Lbfyti3y8UkAAAAM/machine-learning-artificial-intelligence.gif](https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif)" width="100%" alt="Machine Learning GIF"/>
+      <img src="https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif" width="100%" alt="Machine Learning GIF"/>
     </td>
   </tr>
 </table>
