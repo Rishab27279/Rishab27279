@@ -78,3 +78,33 @@
   </tr>
 </table>
 
+name: Update Tic-Tac-Toe Game
+
+on:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update game state
+        run: python update_game.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update game state"
+          git push
+
+
