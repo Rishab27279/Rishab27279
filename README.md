@@ -26,7 +26,7 @@
     <td width="40%">
 <img src="https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif" 
      width="100%" 
-     height="500" 
+     height="400" 
      alt="Machine Learning GIF"/>
     </td>
   </tr>
