@@ -1,8 +1,10 @@
 # <p align="center">Hello there 👋, I am Rishab Kumar Pattnaik</p>
-## <p align="center">Pre-Final Year Student at BITS Pilani</p>
+### <p align="center">Pre-Final Year Student at BITS Pilani Hyderabad Campus</p>
 
-
-
+<table>
+  <tr>
+    <td width="60%">
+      
 ## 🖥️ I work on Deep Learning, Computer Vision, Representation Learning, Generative AI. 🖥️ 
 
 ---
@@ -20,7 +22,17 @@
 - MLOps
 - Agentic AI
 - Reinforcement Learning
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/data-analysis.gif" width="100%" alt="Data Science GIF"/>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td width="60%">
+      
 💻 **Tech Stack & Tools**
 
 <div align="center">
@@ -43,12 +55,30 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
 </div>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/multiscreen-analysis.gif" width="100%" alt="Multi-screen Analysis"/>
+    </td>
+  </tr>
+</table>
 
-
+<table>
+  <tr>
+    <td width="60%">
+      
 📫 **Reach Me At**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabpattnaik9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishab-kumar-pattnaik-6a9939249/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-kumar-pattnaik-6a9939249/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://riiishaab.github.io/)
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science-and-analysis/data-science-profile.gif" width="100%" alt="Data Science Profile"/>
+    </td>
+  </tr>
+</table>
 
+🔥 **Most Used Languages**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabKumarPattnaik&layout=compact" alt="Top Languages"/>
+</div>
