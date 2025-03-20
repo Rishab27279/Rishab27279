@@ -93,7 +93,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: YOUR_USERNAME_HERE
+          github_user_name: Riiishaab
           svg_out_path: dist/github-contribution-grid-snake.svg
           svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
 
