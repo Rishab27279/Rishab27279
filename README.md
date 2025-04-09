@@ -1,4 +1,4 @@
-# <p align="center">Hello there ![image](https://github.com/user-attachments/assets/aba889c5-ea0d-42a3-947c-9968a36057a9), I am Rishab Kumar Pattnaik</p>
+# <p align="center">Hello there 👋🏼, I am Rishab Kumar Pattnaik</p>
 ### <p align="center">Pre-Final Year Student at BITS Pilani Hyderabad Campus</p>
 
 <table>
