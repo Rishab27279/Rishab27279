@@ -1,4 +1,4 @@
-# <p align="center">Hello there 👋🏼, I am Rishab Kumar Pattnaik</p>
+# <p align="center">Hello there 👋🏼, I am Rishab K Pattnaik</p>
 ### <p align="center">Pre-Final Year Student at BITS Pilani Hyderabad Campus</p>
 
 <table>
