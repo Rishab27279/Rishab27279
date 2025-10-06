@@ -1,11 +1,11 @@
 # <p align="center">Hello there 👋🏼, I am Rishab K Pattnaik</p>
-### <p align="center">Final Year Student at BITS Pilani Hyderabad</p>
+### <p align="center">Final Year ECE Student at BITS Pilani Hyderabad</p>
 
 <table>
   <tr>
     <td width="60%">
       
-## 🖥️ I work on Deep Learning, Computer Vision, Representation Learning, Generative AI. 🖥️ 
+## 🖥️ My focus is on Deep Learning and Computer Vision, where I enjoy creating projects that translate complex research into practical, real-world applications. I am actively seeking opportunities to contribute to innovative AI research and development. 🖥️ 
 
 ---
 
@@ -35,7 +35,35 @@
 <table>
   <tr>
     <td width="60%">
-      
+
+---
+## 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Moody.AI - Multimodal Sentiment Analysis</h3>
+<p align="center">
+A multimodal AI system that analyzes emotions from video by fusing vision (DINOv2), audio (Wav2Vec2), and text (DistilBERT) data. Achieved 61% accuracy on the MELD dataset.
+<br>
+<em><strong>Technologies:</strong> PyTorch, Transformers, Streamlit, Docker, OpenCV</em>
+<br>
+<a href="https://github.com/Rishab27279/MoodyAI"><strong>View on GitHub</strong></a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">EdgeSeg-AI - Efficient Image Segmentation</h3>
+<p align="center">
+A lightweight framework for prompt-based image segmentation on consumer hardware. Uses a novel sequential pipeline (LLM → Florence-2 → SAM) to reduce peak memory usage by over 60%.
+<br>
+<em><strong>Technologies:</strong> PyTorch, LLM, Segment Anything Model, Streamlit</em>
+<br>
+<a href="https://github.com/Rishab27279/EdgeSeg-AI"><strong>View on GitHub</strong></a>
+</p>
+</td>
+</tr>
+</table>
+  
 💻 **Tech Stack & Tools**
 
 <div align="center">
